@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Pattern-Project\PatternProject\bin\Debug\PatternProject.exe.config
+D:\VS Projects GitHub\Pattern-Project\PatternProject\bin\Debug\PatternProject.exe
+D:\VS Projects GitHub\Pattern-Project\PatternProject\bin\Debug\PatternProject.pdb
+D:\VS Projects GitHub\Pattern-Project\PatternProject\obj\Debug\PatternProject.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Pattern-Project\PatternProject\obj\Debug\PatternProject.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Pattern-Project\PatternProject\obj\Debug\PatternProject.exe
+D:\VS Projects GitHub\Pattern-Project\PatternProject\obj\Debug\PatternProject.pdb
